@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T15:46:40.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="Mn0FqWICvhGhbUVs5oJr" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T16:13:30.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="2ITZrh1Pk7_Us_oGk2pr" version="22.0.1" type="github">
   <diagram name="Page-1" id="gteLSnTUu1EfBFnWGFyO">
     <mxGraphModel dx="1386" dy="1851" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -240,6 +240,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3mQQJBe-qCYbjCBcRApb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QmjNgP5bVLqJSZOgmGex-91" target="3mQQJBe-qCYbjCBcRApb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3mQQJBe-qCYbjCBcRApb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QmjNgP5bVLqJSZOgmGex-91" target="3mQQJBe-qCYbjCBcRApb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QmjNgP5bVLqJSZOgmGex-91" value="Service Desk create user and build laptop" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="342" y="89" width="120" height="60" as="geometry" />
         </mxCell>
@@ -252,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QmjNgP5bVLqJSZOgmGex-94" value="E-mail to new user with equipment acceptance request" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="346.5" y="228" width="120" height="84" as="geometry" />
+          <mxGeometry x="348.5" y="228" width="120" height="84" as="geometry" />
         </mxCell>
         <mxCell id="QmjNgP5bVLqJSZOgmGex-98" value="User equipment handover" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="350.5" y="636" width="120" height="60" as="geometry" />
@@ -296,6 +302,12 @@
         </mxCell>
         <mxCell id="3mQQJBe-qCYbjCBcRApb-4" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="-775" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mQQJBe-qCYbjCBcRApb-6" value="E-mail to line manager detailing what&#39;s been created.&lt;br&gt;&lt;br&gt;Anything else? Other request.&lt;br&gt;5 working days to process." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="192" width="120" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="3mQQJBe-qCYbjCBcRApb-8" value="E-mail to P4W group detailing what&#39;s been set up." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="192" width="120" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
